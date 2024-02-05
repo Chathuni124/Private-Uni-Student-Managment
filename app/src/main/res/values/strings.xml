@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">student Managment</string>
+    <string name="loginemail">Enter email here</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="userEmail">Enter Email Here</string>
+    <string name="signup">signup</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registration">registration</string>
+    <string name="username">Name</string>
+    <string name="backtologin">backtologin</string>
+    <string name="faculty">faculty</string>
+    <string-array name="faculty">
+        <item></item>
+        <item>FOC</item>
+        <item>FOE</item>
+        <item>FOHS</item>
+    </string-array>
+    <string name="studentID">studentID</string>
+    <string name="student_name">student_name</string>
+
+</resources>
